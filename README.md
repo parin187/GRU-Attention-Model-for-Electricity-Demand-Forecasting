@@ -8,7 +8,7 @@ This project builds a deep learning model (GRU + Attention) to predict short-ter
 
 ## Model
 - Input: 48 hours of past data with 20 features
-- Output: Forecast next 6 hours of demand
+- Output: Forecast next 1 hour of demand
 - Makes use of PyTorch library
 
 ## Results
