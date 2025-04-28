@@ -14,3 +14,5 @@ This project builds a deep learning model (GRU + Attention) to predict short-ter
 ## Results
 - Test Accuracy (t+1): 94.8%
 - Test MSE (t+1): 3594.75
+
+![Actual vs Predicted t+1](images/Actual-vs-Predicted.png)
